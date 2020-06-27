@@ -1,0 +1,5 @@
+# Svelte Template
+
+- ESLint
+- Tailwind
+
